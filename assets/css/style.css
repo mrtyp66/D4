@@ -1,0 +1,59 @@
+h5 {
+    font-size: 20pt;
+    color: #212529;
+    text-align: left;
+    font-weight: lighter;
+}
+p {
+    font-size: 16pt;
+    color: #707070;
+    text-align: left;
+    font-weight: lighter;
+}
+i {
+    font-size: 13pt;
+    color: #707070;
+    text-align: left;
+}
+span {
+    font-size: 13pt;
+    color: #707070;
+    text-align: left;
+    font-weight: lighter;
+}
+.normal {
+    font-size: 16pt;
+    color: #707070;
+    text-align: left;
+    margin: 5.5pt;
+    font-weight: lighter;
+}
+.oferta {
+    font-size: 20pt;
+    color: #28A745;
+    text-align: left;
+    margin: 5.5pt;
+}
+ul {
+    list-style-type: none;
+}
+form {
+    background-color: #28A745;
+}
+legend {
+    font-size: 21pt;
+}
+footer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+footer p{
+    font-size: 16pt;
+    color: #707070;
+    font-weight: lighter;
+    margin: 0;
+    text-align: center;
+}
